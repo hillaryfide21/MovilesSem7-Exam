@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>228401303918-t9ekf292sddl4g6b3hne6rgtds01qub6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.228401303918-t9ekf292sddl4g6b3hne6rgtds01qub6</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>228401303918-53105goocaf4b47m1a110c0qqo60329g.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAdJdoTIiMZfEiOmRK3t85brfjeHX3gP7M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>228401303918</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.hmadriz10439.examen1instrumentos</string>
+	<key>PROJECT_ID</key>
+	<string>examen1instrumentos</string>
+	<key>STORAGE_BUCKET</key>
+	<string>examen1instrumentos.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:228401303918:ios:16ad0284a762462bcfb17f</string>
+</dict>
+</plist>

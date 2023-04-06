@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "228401303918",
+    "project_id": "examen1instrumentos",
+    "storage_bucket": "examen1instrumentos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228401303918:android:e4386d8b127f8c4ccfb17f",
+        "android_client_info": {
+          "package_name": "com.hmadriz10439.examen1instrumentos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228401303918-53105goocaf4b47m1a110c0qqo60329g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hmadriz10439.examen1instrumentos",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "228401303918-gdk5luq67b1rc8ecfpou9nu14iifu437.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-avIscGi5PnFtXGiSyMOMyPEnUO5FcBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228401303918-gdk5luq67b1rc8ecfpou9nu14iifu437.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "228401303918-t9ekf292sddl4g6b3hne6rgtds01qub6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hmadriz10439.examen1instrumentos"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
